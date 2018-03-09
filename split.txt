@@ -1,0 +1,7 @@
+This is used to split data on basis of some factor
+>s<-split(x,factor,drop=FALSE,...)
+      
+    str function
+compactly displays the internal structure of R object
+give single line output
+whereas   summary()----gives complete stucture.
