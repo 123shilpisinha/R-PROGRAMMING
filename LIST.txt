@@ -1,0 +1,8 @@
+list is also a vector with exception that it contains objects of different classes.
+List can be created by using---
+>x<-list("1","a",TRUE,"1+2i")
+Elements of list is given as [[]]
+for eg;--->x
+[[1]]
+[1] 1  ,etc
+we can say that index start from 1.
