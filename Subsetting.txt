@@ -1,0 +1,13 @@
+[  ---returns object of same class and more than one object can be extracted
+[[  --- extract element of list and data frames and output can be of different type
+$  ---extract element by its name
+for eg--
+>x<-matrix(1:6,2,3)
+>x[1,2]
+[1]3
+>x[1,]
+[1] 1 3 5
+note--drop=FALSE--is used to convert vector of length 1 to 1*1 matrix.
+x$a---matches partially
+x[["a"]]---matches exact
+if we use exact=FALSE then   x[["a" ,exact=FALSE]]---matches partially 
