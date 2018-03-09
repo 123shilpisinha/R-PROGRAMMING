@@ -1,0 +1,23 @@
+    lapply
+
+Has 3 arguments--- a list x,function name,...argument
+returns always list
+lapply can be acted on any anonymous function
+for eg--
+>lapply{x,function(elt),elt[,1]}
+
+    sapply
+    
+ it simplifies the result
+ gives vector--every elemnt has length 1
+ gives matrix---if length are different
+ gives list ----if different objects
+ 
+     apply
+     
+It si applied to rows and column of matrix
+has 4 arguments---array x,margin,function,...argument
+
+  tapply
+ looping in subsets of vector.
+ Has 5 arguments---vector x,index,function,...,simplify
