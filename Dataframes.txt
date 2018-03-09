@@ -1,0 +1,12 @@
+Used to store tabuler data
+special type of list where every element of list has to have the same length
+can store different classes of objects
+created by calling---read.csv() or read.table()
+can be converted into matrix as---data.matrix
+FOr eg--->x<-data_frame(a=1:4,b=c(T,T,F,F))
+>x
+a  b
+1  T
+2  T
+3  F
+4  F
