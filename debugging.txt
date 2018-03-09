@@ -1,0 +1,12 @@
+debugging maens checking of error and correcting it
+genarallly there are 3 types of problem---
+message--execution continues
+warning---execution continues
+error---execution stops,fatal problem
+  
+       tools
+traceback---points back the function where error occured
+debug---line by line checking
+browser---stops execution and start debug
+trace---insert debug to a articular place
+recover---modify the error
