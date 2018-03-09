@@ -1,0 +1,6 @@
+<- is an assignment operator.
+# character indicates comment
+for eg->x<-2
+>print(x)   #explicit printing
+>x     #auto printing
+In output we get [1]---which indicates that x is a vector.
