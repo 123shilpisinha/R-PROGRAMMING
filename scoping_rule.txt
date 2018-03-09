@@ -1,0 +1,9 @@
+Scoping rule tells that how value is bind to symbol.
+first it search in global environment and then in each package on search list
+global environment --- 1st elemnt
+base package ---last element
+when we search new package then it comes in 2nd position and other get shifted one step downward
+There are 2 types of scooping----
+LEXICAL--search in user's workspace
+seaching sequence---function environment>>>parent environment>>>empty environment>>>error 
+DYNAMIC---search where the function is defined
