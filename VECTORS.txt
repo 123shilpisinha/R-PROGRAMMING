@@ -1,0 +1,7 @@
+c()---create vectors of objects
+For eg---->x<-c(0.1,0.2)    #numeric
+creating a vector can also be done by using vector()
+For eg--->x<-vector("numeric",length=10)
+If vector contains different classes then all are converted to smalller classes.ie,COECION happens
+Coesion can also be done explicitly by using ----as.classname
+For eg-->as.numeric
