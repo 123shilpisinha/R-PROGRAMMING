@@ -1,0 +1,8 @@
+Represnt categorical data,eg male/female  etc
+can be ordered or unordered.
+treated by modelling function ---lm() ,glm()
+For eg.
+>x<-factor(c("yes","no","no","yes"))
+>x
+[1] yes no no yes
+Levels is given alphabetical wise if not specified,  ie,,levels=c("yes","no")
