@@ -1,0 +1,10 @@
+There are 5 basic classes of objects----character,integer,numeric,logical,complex
+Most basic object is Vector
+vector contains objects of same classes
+list is an exception that contains objects of different classes.
+for empty vector ,we can use----vector()
+Numbers are treated as numeric classes.
+If we explicitly want integer then we can use sufffix "L"
+For eg---1L
+NaN--Not a number
+NA--Not available 
