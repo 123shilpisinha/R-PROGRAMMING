@@ -1,0 +1,4 @@
+dput() and dump() are useful in case of corruption
+they preserve the mega data
+Texual data can be long lived and easier to fix problem
+but ,they takes lot of space
