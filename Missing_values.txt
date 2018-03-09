@@ -1,0 +1,9 @@
+Missing values are denoted by NA or NaN
+is.na()---used to check for na values
+is.nan()----used to check for nan values
+NOTE---nan  value is na but vice versa is not true.
+For eg-->x<-c(1,2,NA,NaN,4)
+>is.na(x)
+[1] F F T  T F
+>is.nan(x)
+[1] F F  F T F
