@@ -1,0 +1,7 @@
+lapply---evaluate each element on the list
+sapply---simplifies the result
+apply---apply over margin of array
+tapply---apply over subset of vector(or table)
+mapply--multivariant version of lapply
+
+These are used to facitilate looping
