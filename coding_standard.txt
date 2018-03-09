@@ -1,0 +1,5 @@
+Always use text files
+Limit the length of the function
+Diving whole program into various function helps you in debugging.
+Always intend(atleast 4)
+Every function should be properly spaced
