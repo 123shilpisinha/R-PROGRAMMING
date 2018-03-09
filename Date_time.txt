@@ -1,0 +1,8 @@
+Date are represented by date class
+Time are represented by POXISct or POIXlt class
+as.Date()----converting into date
+as.POSIXct()  or as.POSIXlt----converting into time
+POSIXct---stores large integer
+POSIXlt---stores list
+We can perform operation such as +,-,*,/ only when both time are of same type.
+Format of strptime---%b %d ,%y %h %m     represents month,day,year,hour and minutes.
