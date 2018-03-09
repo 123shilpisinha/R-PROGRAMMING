@@ -1,0 +1,26 @@
+There are different control structures,they are---if,if-else,while,for
+if sstatement--
+if(condition){
+   statement
+   }
+   
+   if-else---
+if(cond){
+stat1
+}
+  else{
+stat
+}
+
+while is looping statment .it continues the loop until cond given becomes false
+similar is foor loop
+
+foor loop--
+for(i in 1:3){
+print(i)
+}
+
+
+function can be passed as arguments to other function
+formal arguments are used in function definition.
+arguments can be matched with name ,with position ,with partial match
