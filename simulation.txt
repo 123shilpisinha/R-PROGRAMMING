@@ -1,0 +1,7 @@
+rnorm---random no. generation for given mean and sd
+dnorm---probability distribution 
+pnorm---evaluate cummulative distribution
+rpois---evaluates random poisson variates with rate
+
+so, r,p,q,d are the suffixes
+if you want to genearte same random numbers then use ----set.seed(1)
