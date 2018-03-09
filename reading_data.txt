@@ -1,0 +1,19 @@
+read.table/reab.csv---for reading tabuler data
+readLines---reading lines of text files
+source---R codes files(inverse of dump)
+dget---R codes files(inverse of dput)
+load---saved workspaces
+unserialize---R objects in binary form
+                      writing data
+    similar function like--
+    write.table,writeLines,save,dump,dput,serialize,etc
+    
+    READING DATA WITH read.table
+    Important argumentsare--
+    file--name of file
+    header---indicates if has header file or not
+    sep---how to separate two words eg,:,_,spaces et
+    colClasses--classes of columns
+    comment.char----comment
+
+read.csv is same in function as read.table except that the default separator for read.csv is comma but for read.table it is spaces.
