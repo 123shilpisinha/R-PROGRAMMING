@@ -1,0 +1,9 @@
+Matrices are two dimension array
+it has dimension attribute.
+DIMENSION is itself an ineger vector.
+FOR EG.--->m<-matrix(1:6,2,3)
+>m
+1  3  5
+2  4  6
+cbind() and rbind()----used to bind along column and rows respectively
+dim(m)---represent the dimension
