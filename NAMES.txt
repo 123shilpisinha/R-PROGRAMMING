@@ -1,0 +1,17 @@
+name attribite is used to specify names to the vector
+for eg--->x<-1:3
+>names(x)<-c("a","b","c")
+>x
+a  b   c 
+1  2   3
+similarly,list and matrices can also be named
+"$" is used to extract elements using the name of the elements
+For eg--->x<-list(a=1,b=2,c=3)
+>x$a
+[1] 1
+for matrices---
+>dimname(m)<-list(c("a","b"),c("c","d"))
+>m
+   c  d  
+a  1  3
+b  2  4
